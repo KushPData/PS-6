@@ -1,0 +1,13 @@
+name: Diabetes
+title: Diabetes
+username:
+account: kushpdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8479663
+bundleId: 6917263
+url: https://kushpdata.shinyapps.io/Diabetes/
+when: 1678004407.14217
+lastSyncTime: 1678004407.14218
+asMultiple: FALSE
+asStatic: FALSE
