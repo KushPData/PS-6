@@ -1,4 +1,4 @@
-# User document for PS-6
+# User documentation for PS-6
 
 ## About page:
 The data used in this problem set includes the responses of 253,680 individuals who took the Behavioral Risk Factor Surveillance System (BRFSS) survey in 2015. 
